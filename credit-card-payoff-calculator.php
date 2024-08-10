@@ -3,7 +3,8 @@
 Plugin Name: Credit Card Payoff Calculator
 Description: A simple credit card payoff calculator.
 Version: 1.0
-Author: Your Name
+Author: Rohit Kumar
+Author URI: https://iamrohit.net/
 */
 
 function credit_card_payoff_calculator_shortcode() {
